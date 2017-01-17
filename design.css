@@ -1,0 +1,26 @@
+#title1{
+  text-align: center;
+  color: red;
+}
+body{
+  background-color: pink;
+}
+#parag1{
+  font-family: times new roman;
+  text-align: center;
+}
+div.SecDices{
+  position: absolute;
+  margin-left: 20px;
+}
+div.Counters{
+margin-left:250px;
+position: relative;
+bottom: 3em;
+left: 3px;
+}
+#countersimage{
+  position: relative;
+  bottom: 3em;
+  margin-left: 250px;
+}
