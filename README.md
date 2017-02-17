@@ -4,8 +4,7 @@ Free distribution isn't allowed.
 
 ##Featured patch notes (alfa version 0.2) _work in progress_
 In this version we're debugging the counters' programming, so is possible that some counters don't work.
-The <code>mechanics.js</code> file only can be modified by the author, but if you have an idea to improve this or others files, you can do <code>fork</code> to your own repo, modify the relevant code and launch a <code>pull request</code>. If works good, the author will <code>merge</code> the new code.
-
+The `mechanics.js` file only can be modified by the author, but if you have an idea to improve this or others files, you can do <code>fork</code> to your own repo, modify the relevant code and launch a <code>pull request</code>. If works good, the author will <code>merge</code> the new code.
 ###Next features (*in patch 0.3-0.5*)
 
 <ul>
