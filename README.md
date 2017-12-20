@@ -9,11 +9,11 @@ In this version we're debugging the counters' programming, so is possible that s
 The `mechanics.js` file only can be modified by the author, but if you have an idea to improve this or others files, you can do <code>fork</code> to your own repo, modify the relevant code and launch a <code>pull request</code>. If works good, the author will <code>merge</code> the new code.
 ### Next features ![next-patch](https://img.shields.io/badge/patch-v0.3—v0.5-green.svg?colorB=00C106)
 
-<ul>
-<li><b>Bag.</b> A new note zone where you will can write all items to your game.</li>
-<li><b>Character sheet</b>. An app where you will can create your own character in a few minutes.</li>
-<li><b>New background.</b> We are testing some backgrounds to give you a better experience when you use the app.</li>
-</ul>
+- **Bag**. A new note zone where you will can write all items to your game.
+- **Character sheet**. An app where you will can create your own character in a few minutes.
+- **New background**. We are testing some backgrounds to give you a better experience when you use the app.
+
+
 
 ### Bugs
 <ul>
