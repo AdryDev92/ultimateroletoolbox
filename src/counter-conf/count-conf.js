@@ -5,6 +5,7 @@ function plus() {
  count++;
  countEl.value = count;
 }
+
 function minus() {
  count -- ;
  countEl.value = count;
