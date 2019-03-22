@@ -4,20 +4,19 @@ Free distribution isn't allowed.
 
 ---
 
-## Featured patch notes ![status](https://img.shields.io/badge/status-WIP-orange.svg) ![version](https://img.shields.io/badge/alpha%20version-v0.2-green.svg?colorB=00C106) ![build](https://img.shields.io/badge/build-0201-green.svg?colorB=00C106)
-In this version we're debugging the counters' programming, so is possible that some counters don't work.
-The `mechanics.js` file only can be modified by the author, but if you have an idea to improve this or others files, you can do <code>fork</code> to your own repo, modify the relevant code and launch a <code>pull request</code>. If works good, the author will <code>merge</code> the new code.
-### Next features ![next-patch](https://img.shields.io/badge/patch-v0.3—v0.5-green.svg?colorB=00C106)
+## Featured patch notes ![status](https://img.shields.io/badge/status-WIP-orange.svg) ![version](https://img.shields.io/badge/version-v0.1.0-green.svg?colorB=00C106) ![build](https://img.shields.io/badge/build-3006-green.svg?colorB=00C106)
+Welcome to version `0.1.0`. In this release now the counters are available. We done much changes, rename multiple files and reorganize some structure of the project to have all more clean. Soon we start to work in the bag and the character sheet, but I hope that you can give me feedback to improve the project.
+### Next features ![next-patch](https://img.shields.io/badge/patch-v0.3.0—v0.5.0-green.svg?colorB=00C106)
 
 - **Bag**. A new note zone where you will can write all items to your game.
 - **Character sheet**. An app where you will can create your own character in a few minutes.
 - **New background**. We are testing some backgrounds to give you a better experience when you use the app.
 
 
-
 ### Bugs
 ```
-v0.1 - Fixed a little bug that caused that all dices show the same results.
+v0.0.1 - Fixed a little bug that caused that all dices show the same results.
+v0.1.0 - Now all counters work good.
 ```
 
 ## Other important details
