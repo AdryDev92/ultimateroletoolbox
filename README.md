@@ -1,10 +1,9 @@
 # Ultimate Role's Toolbox
-Hosted page in GitHub with copyright. If you want collaborate with the project, please contact with the original author.
-Free distribution isn't allowed.
+The ultimate toolbox with all necessary tools to manage your role plays with your friends. Hosted page in Github. Remember give credit to the developer.
 
 ---
 
-## Featured patch notes ![status](https://img.shields.io/badge/status-WIP-orange.svg) ![version](https://img.shields.io/badge/version-v0.1.0-green.svg?colorB=00C106) ![build](https://img.shields.io/badge/build-3006-green.svg?colorB=00C106)
+## Featured patch notes ![status](https://img.shields.io/badge/status-WIP-orange.svg) ![version](https://img.shields.io/badge/version-v0.1.0-green.svg?colorB=00C106) ![build](https://img.shields.io/badge/build-3106-green.svg?colorB=00C106)
 Welcome to version `0.1.0`. In this release now the counters are available. We done much changes, rename multiple files and reorganize some structure of the project to have all more clean. Soon we start to work in the bag and the character sheet, but I hope that you can give me feedback to improve the project.
 ### Next features ![next-patch](https://img.shields.io/badge/patch-v0.3.0—v0.5.0-green.svg?colorB=00C106)
 
