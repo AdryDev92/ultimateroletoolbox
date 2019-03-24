@@ -5,6 +5,11 @@
 body{
   background-color: pink;
 }
+
+.inputDice{
+  width: 40px;
+}
+
 #parag1{
   font-family: times new roman;
   text-align: center;
