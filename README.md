@@ -11,7 +11,6 @@ Welcome to version `0.1.0`. In this release now the counters are available. We d
 - **Character sheet**.   An app where you will can create your own character in a few minutes.
 - **New background**.   We are testing some backgrounds to give you a better experience when you use the app.
 
-
 ### Bugs
 ```shell
 v0.0.1 - Fixed a little bug that caused that all dices show the same results.
