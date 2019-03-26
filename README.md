@@ -7,9 +7,9 @@ The ultimate toolbox with all necessary tools to manage your role plays with you
 Welcome to version `0.1.0`. In this release now the counters are available. We done much changes, rename multiple files and reorganize some structure of the project to have all more clean. Soon we start to work in the bag and the character sheet, but I hope that you can give me feedback to improve the project.
 ### Next features ![next-patch](https://img.shields.io/badge/patch-v0.3.0—v0.5.0-green.svg?colorB=00C106)
 
-  - **Bag**. A new note zone where you will can write all items to your game.
-  - **Character sheet**.   An app where you will can create your own character in a few minutes.
-  - **New background**.   We are testing some backgrounds to give you a better experience when you use the app.
+- **Bag**. A new note zone where you will can write all items to your game.
+- **Character sheet**.   An app where you will can create your own character in a few minutes.
+- **New background**.   We are testing some backgrounds to give you a better experience when you use the app.
 
 
 ### Bugs
