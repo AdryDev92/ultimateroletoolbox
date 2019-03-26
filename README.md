@@ -13,7 +13,7 @@ Welcome to version `0.1.0`. In this release now the counters are available. We d
 
 
 ### Bugs
-```
+```shell
 v0.0.1 - Fixed a little bug that caused that all dices show the same results.
 v0.1.0 - Now all counters work good.
 ```
