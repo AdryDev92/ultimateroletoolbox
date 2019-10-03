@@ -57,8 +57,8 @@ function minus100(){
 }
 
 function reset(){
-  countEl.value = count;
- countEl10.value = count;
- countEl50.value = count;
- countEl100.value = count;
+ document.getElementById('count').innerHTML = count;
+ document.getElementById('count10').innerHTML = count;
+ document.getElementById('count50').innerHTML = count;
+ document.getElementById('count100').innerHTML = count;
 }
