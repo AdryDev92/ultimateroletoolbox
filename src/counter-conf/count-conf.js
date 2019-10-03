@@ -7,6 +7,7 @@ let countEl = document.getElementById("count");
 let countEl10 = document.getElementById("count10");
 let countEl50 = document.getElementById("count50");
 let countEl100 = document.getElementById("count100");
+let resetButton = document.getElementById("reset);
 
  function plus(){
         count++;
@@ -53,4 +54,8 @@ function minus100(){
     count100-=100;
     countEl100.value = count100;
   }
+}
+
+function reset(){
+  resetButton.value = count;
 }
