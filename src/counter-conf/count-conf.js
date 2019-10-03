@@ -57,5 +57,8 @@ function minus100(){
 }
 
 function reset(){
-  resetButton.value = count;
+  countEl.value = count;
+ countEl10.value = count;
+ countEl50.value = count;
+ countEl100.value = count;
 }
