@@ -47,6 +47,17 @@ function plus100(){
 }
 
 function minus100(){
-  count100-=100;
+count100-=100;
 countEl100.value = count100;
+}
+
+function resetCounters() {
+  count = 0;
+  count10 = 0;
+  count50 = 0;
+  count100 = 0;
+  countEl.value = null;
+  countEl10.value = null;
+  countEl50.value = null;
+  countEl100.value = null;
 }
